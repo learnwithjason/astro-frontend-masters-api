@@ -25,23 +25,23 @@ const products = [
 	},
 	{
 		id: 3,
-		title: 'Crispy Pork Tortilla Sandwich Kit',
-		description:
-			'You’ll definitely want more than one of these street sandwiches. Squeeze a lime over the top for best results!',
-		image: {
-			src: 'https://images.unsplash.com/photo-1574782090889-7567420ce7e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600&q=80&crop=entropy',
-			alt: 'carnitas tacos',
-		},
-		price: 24.0,
-	},
-	{
-		id: 4,
 		title: 'Open-Faced Cold Cuts & Cheese Sandwich Kit',
 		description:
 			'A unique twist on the traditional Italian sub! Sliced pepperoni, mozzarella cheese, and tomato on sourdough.',
 		image: {
 			src: 'https://images.unsplash.com/photo-1677174471071-6a26aa1ff216?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600&q=80&crop=entropy',
 			alt: 'pepperoni pizza',
+		},
+		price: 24.0,
+	},
+	{
+		id: 4,
+		title: 'Crispy Pork Tortilla Sandwich Kit',
+		description:
+			'You’ll definitely want more than one of these street sandwiches. Squeeze a lime over the top for best results!',
+		image: {
+			src: 'https://images.unsplash.com/photo-1574782090889-7567420ce7e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=600&q=80&crop=entropy',
+			alt: 'carnitas tacos',
 		},
 		price: 24.0,
 	},
