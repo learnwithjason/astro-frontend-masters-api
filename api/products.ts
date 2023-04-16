@@ -2,6 +2,7 @@ import { builder, Handler } from '@netlify/functions';
 
 const products = [
 	{
+		id: 1,
 		title: 'Beef Frank Hoagie Sandwich Kit',
 		description:
 			'The sandwich that started it all. Notable for its unique shape, this sandwich is sure to be a conversation starter.',
@@ -12,6 +13,7 @@ const products = [
 		price: 19.0,
 	},
 	{
+		id: 2,
 		title: 'Colorful Sugar Sandwich Kit',
 		description:
 			'Leave it to the French to create the perfect dessert sandwich. Sweet and ranging from fruity to caramelly.',
@@ -22,6 +24,7 @@ const products = [
 		price: 29.0,
 	},
 	{
+		id: 3,
 		title: 'Crispy Pork Tortilla Sandwich Kit',
 		description:
 			'You’ll definitely want more than one of these street sandwiches. Squeeze a lime over the top for best results!',
@@ -32,6 +35,7 @@ const products = [
 		price: 24.0,
 	},
 	{
+		id: 4,
 		title: 'Open-Faced Cold Cuts & Cheese Sandwich Kit',
 		description:
 			'A unique twist on the traditional Italian sub! Sliced pepperoni, mozzarella cheese, and tomato on sourdough.',
@@ -42,6 +46,7 @@ const products = [
 		price: 24.0,
 	},
 	{
+		id: 5,
 		title: 'Molecular Gastronomy Sandwich Kit',
 		description:
 			'Want to impress your friends? This deconstructed sandwich kit is sure to show them how cultured you are!',
@@ -52,6 +57,7 @@ const products = [
 		price: 29.0,
 	},
 	{
+		id: 6,
 		title: 'Savory Beef & Cheese Sandwich Kit',
 		description:
 			'Take your sandwich game up a notch by flame broiling your sandwich fillings. Ground beef and melty cheese!',
